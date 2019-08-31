@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983795137157",
+    "firebase_url": "https://flutterstudyjam-5bc9e.firebaseio.com",
+    "project_id": "flutterstudyjam-5bc9e",
+    "storage_bucket": "flutterstudyjam-5bc9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983795137157:android:d746f88fce6f872a",
+        "android_client_info": {
+          "package_name": "com.example.studyjam_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983795137157-cl0rocdm3vep5pl17i41s8ju7m05r8f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studyjam_blog",
+            "certificate_hash": "131a012ad0299b54ef9f730a0a58e15319fc6ebd"
+          }
+        },
+        {
+          "client_id": "983795137157-sd1sla1dk7cbfuk361eck7g053hq9joh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrkRoGkJWYB13Z_1ylFnl4qR2JGa7vTGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983795137157-sd1sla1dk7cbfuk361eck7g053hq9joh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
